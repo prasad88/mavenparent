@@ -1,0 +1,3 @@
+com\bootmicroservices\ratingsservice\models\UserRating.class
+com\bootmicroservices\ratingsservice\controllers\UserDataController.class
+com\bootmicroservices\ratingsservice\RatingsServiceApplication.class
